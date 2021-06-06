@@ -31,8 +31,8 @@ const Sidebar = ()  => {
            Software Engineer
             </p>
             <a
-                href="/assets/Sumit Dey Resume.pdf"
-                download="Sumit Dey Resume.pdf"
+                href="/sahilcvplus210.pdf"
+                download="sahilcvplus210.pdf"
                 className="flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer dark:bg-dark-200 dark:bg-gray-900"
             >
            <FaUserTie className="w-6 h-6" /> <span> Download Resume </span>
