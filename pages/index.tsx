@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { services } from "../data";
-import { fadeInUp, routeFade , stagger} from "../animation.ts"
+import { fadeInUp, routeFade , stagger} from "../animation"
 import ServiceCard from '../components/ServiceCard'
 import { Service } from '../type'
 import { motion } from "framer-motion";
