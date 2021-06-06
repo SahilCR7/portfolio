@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { fadeInUp, routeFade } from "../animation.ts"
+import { fadeInUp, routeFade } from "../animation"
 import Bar from "../components/Bar";
 import { languages, tools } from "../data";
 const Resume = () => {
