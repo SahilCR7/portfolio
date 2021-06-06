@@ -3,7 +3,7 @@ import { FaServer , FaReact , FaPhp} from 'react-icons/fa'
 import { AiOutlineAntDesign, AiOutlineApi , AiFillHtml5 , AiFillGithub } from 'react-icons/ai'
 import { FaSearchengin , FaWordpress} from 'react-icons/fa'
 import { MdDeveloperMode } from 'react-icons/md'
-import { Service, Skill } from './type'
+import { Service, Skill , IProject } from './type'
 import { SiJavascript , SiTailwindcss , SiFlutter , SiCsharp , SiDotNet , SiAdobephotoshop} from 'react-icons/si'
 
 import { BsCircleFill } from 'react-icons/bs'
