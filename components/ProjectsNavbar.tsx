@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import { Category } from "../types";
+import { Category } from "../type";
 
 export const NavItem: FunctionComponent<{
   value: Category | "all";

@@ -1,5 +1,5 @@
 import { FunctionComponent } from 'react'
-import { Service } from '../types'
+import { Service } from '../type'
 // import { motion } from 'framer-motion'
 
 const ServiceCard: FunctionComponent<{ service: Service }> = ({

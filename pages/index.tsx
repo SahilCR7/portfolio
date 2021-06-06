@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { services } from "../data";
 import { fadeInUp, routeFade , stagger} from "../animation.ts"
 import ServiceCard from '../components/ServiceCard'
-import { Service } from '../types'
+import { Service } from '../type'
 import { motion } from "framer-motion";
 
 const index = props => {
