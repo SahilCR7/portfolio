@@ -1,6 +1,7 @@
 import '../styles/globals.css'
 import Sidebar from "../components/Sidebar";
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 import { ThemeProvider } from "next-themes";
 
 function MyApp({ Component, pageProps }) {
@@ -17,7 +18,11 @@ function MyApp({ Component, pageProps }) {
               {/* //!about */}
           <Component {...pageProps} />
         </div> 
+        <div className='w-full col-span-12 text-base text-center bg-gray-200 dark:bg-black lg:col-span-12 rounded-2xl shadow-custom-light dark:shadow-custom-dark'>
+            <Footer/>
+        </div>
       </div>
+      
       </ThemeProvider>
   )
 }

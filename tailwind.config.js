@@ -18,6 +18,9 @@ module.exports = {
         darkblue: '#182848',
         
       },
+      margin: {
+        '12': '12rem',
+       },
       dark: {
         DEFAULT: "#010101",
         100: "#0a0b0e",

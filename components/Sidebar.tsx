@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { AiFillGithub ,AiFillLinkedin,AiFillFacebook,  } from 'react-icons/ai'
+import { AiFillGithub ,AiFillLinkedin,AiFillFacebook, AiOutlineInstagram } from 'react-icons/ai'
 import { FaUserTie } from 'react-icons/fa'
 import { GoLocation } from 'react-icons/go'
 import { HiOutlineLocationMarker } from 'react-icons/hi'
@@ -46,8 +46,11 @@ const Sidebar = ()  => {
                 <a href="https://www.linkedin.com/in/sahil-youssef-156143120?trk=pub-pbmap&originalSubdomain=in" >
                 <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
                 </a>
-                <a href="https://www.instagram.com/_sumax__/">
+                <a href="https://github.com/SahilCR7?tab=repositories">
                 <AiFillGithub className="w-8 h-8 cursor-pointer" />{" "}
+                </a>
+                <a href="https://www.instagram.com/sahilyousef/">
+                <AiOutlineInstagram className="w-8 h-8 cursor-pointer" />
                 </a>
             </div>
        
