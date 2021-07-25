@@ -20,7 +20,7 @@ const Sidebar = ()  => {
           <Image
                 width="128px"
                 height="128px"
-                src="https://scontent.fmaa5-1.fna.fbcdn.net/v/t1.6435-9/123175029_2912819085487202_4324340101466798691_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=LF-xyWzRxPcAX-nFcKF&_nc_ht=scontent.fmaa5-1.fna&oh=f54de3f61b08e7284a4544ca013bf280&oe=60D9BB14"
+                src="/images/sahil.jpg"
                 alt="avatar"
                 className="w-32 h-32 mx-auto border rounded-full "/>
             
